@@ -1,0 +1,12 @@
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.App.xaml
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.BankAccountPage.xaml
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.App.xaml.g.cs
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.BankAccountPage.xaml.g.cs
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/bin/Debug/BankAccount.pdb
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/bin/Debug/BankAccount.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/BankAccount/obj/Debug/BankAccount.pdb

@@ -1,0 +1,15 @@
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/BankAccount.iOS.pdb
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/BankAccount.iOS.exe
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/BankAccount.iOS.exe
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/obj/iPhoneSimulator/Debug/BankAccount.iOS.pdb
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/BankAccount.dll
+/Users/ryanlott/Desktop/Xamarin Uni/C#/class6/BankAccount/iOS/bin/iPhoneSimulator/Debug/BankAccount.pdb

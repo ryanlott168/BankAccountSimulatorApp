@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{38EB6A77-CD16-4025-9FB1-78EE3A5A94D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankAccount.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1B1FD355-F5A7-4DBA-AC82-77F75843BB52" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lab Materials/Homework Resources/BankAccount/BankAccountPage.cs">
+    <Files>
+      <File FileName="BankAccount/App.xaml.cs" Line="9" Column="12" />
+      <File FileName="BankAccount/BankAccount.cs" Line="27" Column="29" />
+      <File FileName="BankAccount/BankAccountPage.xaml.cs" Line="82" Column="1" />
+      <File FileName="../Lab Materials/Homework Resources/BankAccount/App.cs" Line="1" Column="1" />
+      <File FileName="../Lab Materials/Homework Resources/BankAccount/BankAccount.cs" Line="6" Column="1" />
+      <File FileName="../Lab Materials/Homework Resources/BankAccount/BankAccountPage.cs" Line="84" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
